@@ -30,10 +30,10 @@ A sub pasta includes, dentro de js, é responsável apenas por armazenar arquivo
 ## Pasta jquery
 É responsável por armazenar unicamente o arquivo jquery.js, que já está importado ao projeto, pronto para a utilização, na versão 3.5.1. O uso deste arquivo é também facultativo, porém é necessário se deseja-se seguir o padrão utilizando carregamento de componentes.
 
-  jQuery JavaScript Library v3.5.1
-  Copyright JS Foundation and other contributors
-  Released under the MIT license
-  https://jquery.org/license
+  * jQuery JavaScript Library v3.5.1
+  * Copyright JS Foundation and other contributors
+  * Released under the MIT license
+  * https://jquery.org/license
   
 ## Pasta pages
 A pasta é responsável por armazenar arquivos php que serão as páginas do sistema. Pode-se também criar sub pastas dentro desta, caso desejado.
