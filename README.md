@@ -44,4 +44,4 @@ A pasta é repsonsável por armazenar o arquivo de conexão com banco de dados, 
 A sub pasta functions armazena arquivos de funções php, como inserção de dados ao banco, funções de login, etc.
 
 ## Pasta sql
-A pasta sql, por fim, armazena arquivos de backup do banco de dados do projeto ou estrutura do banco, tabelas, etc. Para o projeto, não há necessidade de se ter os arquivos sql da aplicação salvos na pasta do projeto, mas é uma opção viável caso deseje-se enviar a estrutura do banco de dados ou realziar backup dos registros para o GitHub, entre outros.
+A pasta sql, por fim, armazena arquivos de backup do banco de dados do projeto ou estrutura do banco, tabelas, etc. Para o projeto, não há necessidade de se ter os arquivos sql da aplicação salvos na pasta do projeto, mas é uma opção viável caso deseje-se enviar a estrutura do banco de dados ou realizar um backup dos registros para o GitHub, entre outros.
