@@ -42,6 +42,8 @@ A pasta é responsável por armazenar arquivos php que serão as páginas do sis
 A pasta é repsonsável por armazenar o arquivo de conexão com banco de dados, além de sub pastas. O arquivo de conexão já está presente no projeto, bastando apenas ao desenvolvedor realizar a configuração com seu banco de dados. Sub pastas desta podem armazenar arquivos de funções, que também já é incluída para funções básicas.
 ### Sub Pasta functions
 A sub pasta functions armazena arquivos de funções php, como inserção de dados ao banco, funções de login, etc.
+### Sub pasta components
+A sub pasta components armazena componentes de páginas que necessitam de condições, funções ou includes PHP.
 
 ## Pasta sql
 A pasta sql, por fim, armazena arquivos de backup do banco de dados do projeto ou estrutura do banco, tabelas, etc. Para o projeto, não há necessidade de se ter os arquivos sql da aplicação salvos na pasta do projeto, mas é uma opção viável caso deseje-se enviar a estrutura do banco de dados ou realizar um backup dos registros para o GitHub, entre outros.
